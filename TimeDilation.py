@@ -74,3 +74,5 @@ ani2 = FuncAnimation(fig2, animate2, init_func=init2, frames=200, interval=50 * 
 
 # Show the animated plots
 plt.show()
+
+#hello
